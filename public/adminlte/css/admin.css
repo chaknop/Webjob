@@ -1,0 +1,20 @@
+.content-header h1 a:hover{
+	text-decoration:none;
+}
+.skin-green .main-header a.logo {
+	text-decoration:none;
+}
+.clear{
+	clear: both;
+}
+.errors{
+    /*background: rgb(243, 220, 214);*/
+    border: solid 1px #ffbeb1;
+}
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
